@@ -1,16 +1,65 @@
-## Hi there 👋
+  ## Hi there 👋
 
-<!--
-**alehana/alehana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Alesh
 
-Here are some ideas to get you started:
+💻 Passionate Full-Stack Developer
+🚀 Building modern web applications using React, Node.js, Express, MongoDB, PostgreSQL, and TypeScript.
+📚 Currently learning backend architecture, authentication systems, APIs, and scalable applications.
+🎯 Focused on improving my skills every day and creating real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* TypeScript
+
+### Database
+
+* MongoDB
+* PostgreSQL
+
+### Tools & Technologies
+
+* Git & GitHub
+* JWT Authentication
+* REST APIs
+* Prisma
+* Render & Vercel
+
+---
+
+## 📌 Current Projects
+
+* 📝 Productivity App
+* 🎬 Movie App using TMDB API
+* 📚 ERP & Quiz Management System
+* 📰 Blog Platform
+* 📥 YouTube Downloader App
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Backend Development
+* System Design Basics
+* Database Relationships
+* Authentication & Security
+* Clean Architecture
+
+
+# ⚡ Fun Fact
+
+> “I love turning ideas into real applications.”
+
