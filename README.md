@@ -1,6 +1,6 @@
   ## Hi there 👋
 
-# 👋 Hi, I'm Alesh
+# 👋 Hi, I'm Alehana
 
 💻 Passionate Full-Stack Developer
 🚀 Building modern web applications using React, Node.js, Express, MongoDB, PostgreSQL, and TypeScript.
